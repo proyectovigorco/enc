@@ -48,6 +48,7 @@ input:focus {
     display: flex;
     flex-direction: column;
     width: 40%;
+    min-width: 300px;
     margin-top: 6px;
 }
 
@@ -58,6 +59,7 @@ label {
 
 .c3 {
     width: 40%;
+    min-width: 300px;
 }
 
 .c3-title {
